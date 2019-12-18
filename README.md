@@ -269,7 +269,7 @@ Improving Document Ranking with Dual Word Embeddings
 
 ### Papers
 
-[1] **DSSM** 
+#### [1] **DSSM** 
 
 * source code : [[code]](https://github.com/NTMC-Community/MatchZoo/blob/master/matchzoo/models/dssm.py) [[code]](https://github.com/zheng5yu9/siamese_dssm) [[code]](https://github.com/mingspy/cnn-dssm) [[code]](https://github.com/xubaochuan/dssm)[[code]](https://github.com/sunnyuanovo/DSSM) [[code]](https://github.com/songyandong/dssm-lstm)   [[code]](https://github.com/baharefatemi/DSSM) [[code]](https://github.com/ShuaiyiLiu/sent_cnn_tf)  [[code]](https://github.com/pengming617/text_matching/blob/master/dssm/dssm_model.py) [[code]](https://github.com/ChenglongChen/tensorflow-DSMM)  [[code]](https://github.com/kn45/ltr-dnn) [[code]](https://github.com/shelldream/DSSM)
 * paper : [[pdf]](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/02/cikm2013_DSSM_fullversion.pdf) 
