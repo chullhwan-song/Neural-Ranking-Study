@@ -528,7 +528,7 @@ of text pairs and a similarity function to relate them in a supervised way from 
 
 ### Join BERT
 
-[26] **CEDR** 
+[26] **CEDR** : [2019.12.18 Current SOTA](https://paperswithcode.com/sota/ad-hoc-information-retrieval-on-trec-robust04)
 
 * source code :[[code]](https://paperswithcode.com/paper/190407094)
 * paper :[[pdf]](https://arxiv.org/abs/1904.070946)
