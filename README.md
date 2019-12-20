@@ -414,7 +414,7 @@ Improving Document Ranking with Dual Word Embeddings
 
 [18] **FNRM** 
 
-* source code :[[code]](https://github.com/hamed-zamani/snrm) 
+* source code :[[code]](https://github.com/mikvrax/TrecingLab) 
 * paper :[[pdf]](https://arxiv.org/abs/1704.08803)
 * review : [[review]](https://github.com/rejasupotaro/paper-reading/issues/15) [[review]](https://mostafadehghani.com/2017/04/23/beating-the-teacher-neural-ranking-models-with-weak-supervision/) [[review]](https://mostafadehghani.com/wp-content/uploads/2016/07/SIGIR2017_Presentation.pdf)
 
