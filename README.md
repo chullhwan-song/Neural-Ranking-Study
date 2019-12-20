@@ -481,6 +481,7 @@ Improving Document Ranking with Dual Word Embeddings
 
 * source code :[[code]](https://paperswithcode.com/paper/190407094)
 * paper :[[pdf]](https://arxiv.org/abs/1904.070946)
+* review :[[review]](https://github.com/chullhwan-song/Reading-Paper/issues/262)
 
 **CEDR: Contextualized Embeddings for Document Ranking**
 
