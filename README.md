@@ -412,7 +412,7 @@ Improving Document Ranking with Dual Word Embeddings
 > TF ranking open-source
 
 
-[18] **nrmws(가칭)** 
+[18] **FNRM** 
 
 * source code :[[code]](https://github.com/hamed-zamani/snrm) 
 * paper :[[pdf]](https://arxiv.org/abs/1704.08803)
@@ -494,5 +494,25 @@ Improving Document Ranking with Dual Word Embeddings
 **Deeper Text Understanding for IR with Contextual Neural Language Modeling**
 
 
+[28] **NPRF**
+
+* source code :[[code]](https://github.com/ucasir/NPRF)
+* paper :[[pdf]](https://arxiv.org/pdf/1810.12936v1.pdf)
+
+**NPRF: A Neural Pseudo Relevance Feedback Framework for Ad-hoc Information Retrieval**
+
+[29] **BERT FT**
+
+* source code :[[code]](https://github.com/castorini/birch)
+* paper :[[pdf]](https://arxiv.org/pdf/1903.10972v1.pdf)
+
+**Simple Applications of BERT for Ad Hoc Document Retrieval**
+
+[30] **BERT FT**
+
+* source code :[[code]](https://github.com/castorini/birch)
+* paper :[[pdf]](https://arxiv.org/pdf/1903.10972v1.pdf)
+
+**Simple Applications of BERT for Ad Hoc Document Retrieval**
 
 
