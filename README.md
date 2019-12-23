@@ -108,7 +108,7 @@ Improving Document Ranking with Dual Word Embeddings
 * 이쪽분야가 benchmarkset이 정립이안되는듯한 모습이 보인다.(제생각)
 * 일단 LETOR로.그나마..
 
-### MQ2007
+##### MQ2007
 <table>
 <tr>
 <th width=30%, bgcolor=#999991 >Paper</th> 
@@ -187,7 +187,7 @@ Improving Document Ranking with Dual Word Embeddings
 </tr>
 </table>
 
-### MQ2008
+#####  MQ2008
 
 <table>
 <tr>
@@ -267,7 +267,7 @@ Improving Document Ranking with Dual Word Embeddings
 </tr>
 </table>
 
-### Ad-Hoc Information Retrieval on TREC Robust04 [링크](https://paperswithcode.com/sota/ad-hoc-information-retrieval-on-trec-robust04)
+#####  Ad-Hoc Information Retrieval on TREC Robust04 [링크](https://paperswithcode.com/sota/ad-hoc-information-retrieval-on-trec-robust04)
 
 ### Papers
 
