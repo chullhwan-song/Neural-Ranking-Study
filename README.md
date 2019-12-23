@@ -267,7 +267,8 @@ Improving Document Ranking with Dual Word Embeddings
 </tr>
 </table>
 
-#####  Ad-Hoc Information Retrieval on TREC Robust04 [링크](https://paperswithcode.com/sota/ad-hoc-information-retrieval-on-trec-robust04)
+#####  Ad-Hoc Information Retrieval on TREC Robust04 
+[링크](https://paperswithcode.com/sota/ad-hoc-information-retrieval-on-trec-robust04)
 
 ### Papers
 
