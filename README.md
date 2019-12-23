@@ -511,11 +511,11 @@ Improving Document Ranking with Dual Word Embeddings
 
 **Simple Applications of BERT for Ad Hoc Document Retrieval**
 
-[30] **BERT FT**
+[30] *GSF**
 
-* source code :[[code]](https://github.com/castorini/birch)
-* paper :[[pdf]](https://arxiv.org/pdf/1903.10972v1.pdf)
+* source code :[[code]]()
+* paper :[[pdf]](https://research.google/pubs/pub48348/)
 
-**Simple Applications of BERT for Ad Hoc Document Retrieval**
+**Learning Groupwise Multivariate Scoring Functions Using Deep Neural Networks**
 
 
