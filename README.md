@@ -511,7 +511,7 @@ Improving Document Ranking with Dual Word Embeddings
 
 **Simple Applications of BERT for Ad Hoc Document Retrieval**
 
-[30] *GSF**
+[30] **GSF**
 
 * source code :[[code]]()
 * paper :[[pdf]](https://research.google/pubs/pub48348/)
