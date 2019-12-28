@@ -513,7 +513,7 @@ Improving Document Ranking with Dual Word Embeddings
 
 [30] **GSF**
 
-* source code :[[code]]()
+* source code :[[code]](https://github.com/tensorflow/ranking/blob/master/tensorflow_ranking/python/model.py)
 * paper :[[pdf]](https://research.google/pubs/pub48348/)
 
 **Learning Groupwise Multivariate Scoring Functions Using Deep Neural Networks**
