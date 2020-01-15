@@ -478,9 +478,16 @@ Improving Document Ranking with Dual Word Embeddings
 **Learning a Deep Listwise Context Model for Ranking Refinement.** *SIGIR 2018*
 
 
-### Join BERT
+[26] **GSF**
 
-[26] **CEDR** : [2019.12.18 Current SOTA](https://paperswithcode.com/sota/ad-hoc-information-retrieval-on-trec-robust04)
+* source code :[[code]](https://github.com/tensorflow/ranking/blob/master/tensorflow_ranking/python/model.py)
+* paper :[[pdf]](https://research.google/pubs/pub48348/)
+
+**Learning Groupwise Multivariate Scoring Functions Using Deep Neural Networks**
+
+##  BERT IR
+
+[1] **CEDR** : [2019.12.18 Current SOTA](https://paperswithcode.com/sota/ad-hoc-information-retrieval-on-trec-robust04)
 
 * source code :[[code]](https://paperswithcode.com/paper/190407094)
 * paper :[[pdf]](https://arxiv.org/abs/1904.070946)
@@ -489,33 +496,28 @@ Improving Document Ranking with Dual Word Embeddings
 **CEDR: Contextualized Embeddings for Document Ranking**
 
 
-[27] **BERT-MaxP**
+[2] **BERT-MaxP**
 
 * source code :[[code]](https://paperswithcode.com/paper/deeper-text-understanding-for-ir-with)
-* paper :[[pdf]](https://arxiv.org/abs/1905.09217v1)
+* paper : [[pdf]](https://arxiv.org/abs/1905.09217v1)
+* review :[[review]](https://github.com/chullhwan-song/Reading-Paper/issues/264)
 
 **Deeper Text Understanding for IR with Contextual Neural Language Modeling**
 
 
-[28] **NPRF**
+[3] **NPRF**
 
 * source code :[[code]](https://github.com/ucasir/NPRF)
 * paper :[[pdf]](https://arxiv.org/pdf/1810.12936v1.pdf)
 
 **NPRF: A Neural Pseudo Relevance Feedback Framework for Ad-hoc Information Retrieval**
 
-[29] **BERT FT**
+[4] **BERT FT**
 
 * source code :[[code]](https://github.com/castorini/birch)
 * paper :[[pdf]](https://arxiv.org/pdf/1903.10972v1.pdf)
 
 **Simple Applications of BERT for Ad Hoc Document Retrieval**
 
-[30] **GSF**
-
-* source code :[[code]](https://github.com/tensorflow/ranking/blob/master/tensorflow_ranking/python/model.py)
-* paper :[[pdf]](https://research.google/pubs/pub48348/)
-
-**Learning Groupwise Multivariate Scoring Functions Using Deep Neural Networks**
 
 
