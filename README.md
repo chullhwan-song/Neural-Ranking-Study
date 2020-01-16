@@ -529,7 +529,7 @@ Improving Document Ranking with Dual Word Embeddings
 
 [5] Passage Re-ranking with BERT
 
-* source code :[[code]]()
+* source code :[[code]](https://github.com/nyu-dl/dl4marco-bert)
 * paper: [[paper]](https://arxiv.org/abs/1901.04085)
 
 [6] Multi-Stage Document Ranking with BERT
