@@ -521,5 +521,11 @@ Improving Document Ranking with Dual Word Embeddings
 
 **Simple Applications of BERT for Ad Hoc Document Retrieval**
 
+[4] Document Expansion by Query Prediction 
+
+* source code :[[code]](https://github.com/nyu-dl/dl4ir-doc2query)
+* paper: [[paper]](https://arxiv.org/abs/1904.08375)
+* review : [[review]](https://github.com/chullhwan-song/Reading-Paper/issues/284)
+
 
 
