@@ -527,5 +527,11 @@ Improving Document Ranking with Dual Word Embeddings
 * paper: [[paper]](https://arxiv.org/abs/1904.08375)
 * review : [[review]](https://github.com/chullhwan-song/Reading-Paper/issues/284)
 
+[5] Passage Re-ranking with BERT
+
+* source code :[[code]]()
+* paper: [[paper]](https://arxiv.org/abs/1901.04085)
+
+
 
 
