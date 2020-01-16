@@ -531,6 +531,7 @@ Improving Document Ranking with Dual Word Embeddings
 
 * source code :[[code]](https://github.com/nyu-dl/dl4marco-bert)
 * paper: [[paper]](https://arxiv.org/abs/1901.04085)
+* review : [[review]](https://github.com/chullhwan-song/Reading-Paper/issues/286)
 
 [6] Multi-Stage Document Ranking with BERT
 
