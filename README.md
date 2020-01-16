@@ -516,6 +516,7 @@ Improving Document Ranking with Dual Word Embeddings
 
 * source code :[[code]](https://github.com/castorini/birch)
 * paper :[[pdf]](https://arxiv.org/pdf/1903.10972v1.pdf)
+* review :[[review]](https://github.com/chullhwan-song/Reading-Paper/issues/279)
 
 **Simple Applications of BERT for Ad Hoc Document Retrieval**
 
