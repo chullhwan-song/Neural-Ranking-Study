@@ -485,6 +485,14 @@ Improving Document Ranking with Dual Word Embeddings
 
 **Learning Groupwise Multivariate Scoring Functions Using Deep Neural Networks**
 
+[27] **NPRF**
+
+* source code :[[code]](https://github.com/ucasir/NPRF)
+* paper :[[pdf]](https://arxiv.org/pdf/1810.12936v1.pdf)
+
+**NPRF: A Neural Pseudo Relevance Feedback Framework for Ad-hoc Information Retrieval**
+
+
 ##  BERT IR
 
 [1] **CEDR** : [2019.12.18 Current SOTA](https://paperswithcode.com/sota/ad-hoc-information-retrieval-on-trec-robust04)
@@ -505,14 +513,7 @@ Improving Document Ranking with Dual Word Embeddings
 **Deeper Text Understanding for IR with Contextual Neural Language Modeling**
 
 
-[3] **NPRF**
-
-* source code :[[code]](https://github.com/ucasir/NPRF)
-* paper :[[pdf]](https://arxiv.org/pdf/1810.12936v1.pdf)
-
-**NPRF: A Neural Pseudo Relevance Feedback Framework for Ad-hoc Information Retrieval**
-
-[4] **BERT FT**
+[3] **BERT FT**
 
 * source code :[[code]](https://github.com/castorini/birch)
 * paper :[[pdf]](https://arxiv.org/pdf/1903.10972v1.pdf)
